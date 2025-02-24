@@ -1,0 +1,74 @@
+Deleting Sucessfull........Element bath daily
+ deleted
+
+Added new Todo 
+
+Added new Todo blabla
+
+Added new Todo 
+
+
+Added new Todo blow
+
+
+Editing Sucessfull........Edited todo from shower todayblabla
+ to shower today
+
+Deleting Sucessfull........Element bro
+ deleted
+Added new Todo 
+
+Added new Todo bla23132
+
+Deleting Sucessfull........Element 
+ deleted
+Added new Todo 
+
+Added new Todo blabro
+Added new Todo 
+No Element at index or add values
+No Element at index or add values
+Added new Todo bath cleanly
+
+Error : invalid literal for int() with base 10: 'dkfnd'
+Deleting Sucessfull........Element 
+ deleted
+Deleting Sucessfull........Element 
+ deleted
+Error : invalid literal for int() with base 10: 'jrnvj'
+Added new Todo 
+
+Enter a valid command
+Added new Todo go for a walk
+
+Deleting Sucessfull........Element 
+ deleted
+Error : Task number out of range.
+Error : invalid literal for int() with base 10: 'jfrnfji4f'
+Editing Sucessfull........Edited todo from shower today
+ to shower well
+Added new Todo 
+
+Added new Todo blow
+
+Error : invalid literal for int() with base 10: 'jndfj'
+Error : invalid literal for int() with base 10: 'c,nfj'
+Error : Task number out of range.
+Error : Task number out of range.
+Deleting Successful... Element 'clean' deleted
+Deleting Successful... Element 'shower well' deleted
+Deleting Successful... Element 'wash clothes' deleted
+Deleting Successful... Element 'bla23132' deleted
+Deleting Successful... Element 'blow' deleted
+Deleting Successful... Element '' deleted
+Deleting Successful... Element 'go for a walk' deleted
+Deleting Successful... Element 'bath cleanly' deleted
+Deleting Successful... Element 'blow' deleted
+Error: The to-do list is empty. Nothing to delete.
+Error: The to-do list is empty. Nothing to delete.
+Error: The to-do list is empty. Nothing to edit.
+Added new Todo bath
+
+Error: Invalid input. Please enter a valid task number.
+Error: Invalid task number: 34. It must be between 1 and 1.
+Editing Successful... Edited todo from 'bath' to 'Get grocery'
